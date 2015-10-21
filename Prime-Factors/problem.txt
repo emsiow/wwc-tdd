@@ -5,6 +5,6 @@ For each number n, we want to have a list of all the prime number that are it's 
 Examples:
 Given the number 1, I should get an empty list
 Given the number 2, I should get [2]
-Given the number 3, I should get [3]
 Given the number 4, I should get [2, 2]
 Given the number 6, I should get [2, 3]
+Given the number 20, I should get [2, 2, 5]
